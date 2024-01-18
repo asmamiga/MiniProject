@@ -41,7 +41,7 @@ def deleteAll():
 def clearList():
     tList.delete(0,'end')
 
-#Functions
+#labels and buttons
     
 label1 = ttk.Label(window, text = 'To-Do List')
 label2 = ttk.Label(window, text='Enter task title: ')
